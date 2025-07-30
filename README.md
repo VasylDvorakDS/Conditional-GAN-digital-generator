@@ -16,6 +16,11 @@ Train the designed generative model on the MNIST dataset containing images of ha
 
 Train the cGAN so that the model generates realistic digits.
 
+
+<img width="807" height="737" alt="изображение" src="https://github.com/user-attachments/assets/863ac188-6ffb-4f06-aaf5-e7e3dfef75a2" />
+
+
+
 # Conclusion
 
 A conditional generator based on U-Net was built, which takes noise and class labels as input and generates digit images.
